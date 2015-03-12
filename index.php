@@ -18,7 +18,7 @@
   </head>
   <body>
 
-	<div class="container">
+	<div class="container-fluid">
 		
 		<table class="table table-bordered">
 			<th>First name</th><th>Last name</th><th>Age</th>
